@@ -16,3 +16,4 @@
 |3.4|:ok_hand:|
 |3.5|:ok_hand:|
 |3.6|:ok_hand:|
+|4.1|:ok_hand:|
